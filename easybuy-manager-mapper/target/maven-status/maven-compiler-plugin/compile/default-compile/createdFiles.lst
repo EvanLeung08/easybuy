@@ -1,0 +1,11 @@
+com\easybuy\mapper\TbItemCatMapper.class
+com\easybuy\mapper\TbItemParamMapper.class
+com\easybuy\mapper\TbUserMapper.class
+com\easybuy\mapper\TbOrderItemMapper.class
+com\easybuy\mapper\TbItemParamItemMapper.class
+com\easybuy\mapper\TbItemMapper.class
+com\easybuy\mapper\TbOrderShippingMapper.class
+com\easybuy\mapper\TbContentMapper.class
+com\easybuy\mapper\TbItemDescMapper.class
+com\easybuy\mapper\TbContentCategoryMapper.class
+com\easybuy\mapper\TbOrderMapper.class
