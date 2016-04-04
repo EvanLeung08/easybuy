@@ -38,9 +38,13 @@
 
 
 	<modules>
-		<module>easybuy-manager-pojo</module>
-		<module>easybuy-manager-mapper</module>
-		<module>easybuy-manager-service</module>
-		<module>easybuy-manager-web</module>
+		
+		
+		
+		
+		<module>../easybuy-manager-mapper</module>
+		<module>../easybuy-manager-pojo</module>
+		<module>../easybuy-manager-service</module>
+		<module>../easybuy-manager-web</module>
 	</modules>
 </project>
