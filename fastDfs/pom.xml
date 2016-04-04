@@ -2,11 +2,10 @@
   <modelVersion>4.0.0</modelVersion>
   <parent>
     <groupId>com.easybuy</groupId>
-    <artifactId>easybuy-manager</artifactId>
+    <artifactId>easybuy-parent</artifactId>
     <version>0.0.1-SNAPSHOT</version>
   </parent>
-  <artifactId>easybuy-manager-pojo</artifactId>
-  
   <groupId>com.easybuy</groupId>
-  <version>0.0.1-SNAPSHOT</version>
+  <artifactId>fastDfs</artifactId>
+  <version>1.25</version>
 </project>
