@@ -1,4 +1,5 @@
-com\easybuy\controller\PictureController.class
 com\easybuy\controller\PageController.class
+com\easybuy\controller\PictureController.class
 com\easybuy\controller\ItemCatController.class
 com\easybuy\controller\ItemController.class
+com\easybuy\controller\ItemParamController.class

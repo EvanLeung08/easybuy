@@ -13,17 +13,17 @@ import com.easybuy.service.ItemService;
 public class PageController {
 	@Autowired
 	private ItemService itemService;
-	
+
 	@RequestMapping("/")
 	public String showIndex() {
 		return "index";
 	}
-	
+
 	@RequestMapping("/{page}")
-	public String showpage(@PathVariable String page){
+	public String showpage(@PathVariable String page) {
 		return page;
 	}
-	
+
 	@RequestMapping("/item/list")
 	@ResponseBody
 	public EasyUIDataGridResult getItemList(Integer page, Integer rows) {
